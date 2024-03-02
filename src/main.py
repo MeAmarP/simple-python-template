@@ -1,1 +1,3 @@
-print("Hello World")
+
+def hworld():
+    return "Hello World"
